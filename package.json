@@ -2,6 +2,7 @@
   "name": "parrotcode",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://parrotbaobao.github.io",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -27,6 +28,7 @@
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/tsconfig": "3.5.2",
     "@docusaurus/types": "3.5.2",
+    "gh-pages": "^6.3.0",
     "typescript": "~5.5.2"
   },
   "browserslist": {
