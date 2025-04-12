@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Git \u57fa\u672c\u4f7f\u7528","permalink":"/parrotbaobao/blog/2020/02/26/git-basic-usage","unlisted":false,"date":"2020-02-26T00:00:00.000Z"}]}')}}]);
